@@ -1,0 +1,6 @@
+body{ font-size: 12px;color: gray; line-height: 2em;}
+.special{color: #fdb306}
+.menu{color: white}
+a:link{color:#727272;text-decoration: none; }
+a:hover{color:#727272;text-decoration: underline;}
+tr td a{font-size: 14px;color: #b9f605;font-weight: bold;}
